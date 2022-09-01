@@ -1,0 +1,11 @@
+C:\Users\aleba\source\repos\TabControlMaskedTextBox\TabControlMaskedTextBox\bin\Debug\TabControlMaskedTextBox.exe.config
+C:\Users\aleba\source\repos\TabControlMaskedTextBox\TabControlMaskedTextBox\bin\Debug\TabControlMaskedTextBox.exe
+C:\Users\aleba\source\repos\TabControlMaskedTextBox\TabControlMaskedTextBox\bin\Debug\TabControlMaskedTextBox.pdb
+C:\Users\aleba\source\repos\TabControlMaskedTextBox\TabControlMaskedTextBox\obj\Debug\TabControlMaskedTextBox.csproj.AssemblyReference.cache
+C:\Users\aleba\source\repos\TabControlMaskedTextBox\TabControlMaskedTextBox\obj\Debug\TabControlMaskedTextBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\aleba\source\repos\TabControlMaskedTextBox\TabControlMaskedTextBox\obj\Debug\TabControlMaskedTextBox.Form1.resources
+C:\Users\aleba\source\repos\TabControlMaskedTextBox\TabControlMaskedTextBox\obj\Debug\TabControlMaskedTextBox.Properties.Resources.resources
+C:\Users\aleba\source\repos\TabControlMaskedTextBox\TabControlMaskedTextBox\obj\Debug\TabControlMaskedTextBox.csproj.GenerateResource.cache
+C:\Users\aleba\source\repos\TabControlMaskedTextBox\TabControlMaskedTextBox\obj\Debug\TabControlMaskedTextBox.csproj.CoreCompileInputs.cache
+C:\Users\aleba\source\repos\TabControlMaskedTextBox\TabControlMaskedTextBox\obj\Debug\TabControlMaskedTextBox.exe
+C:\Users\aleba\source\repos\TabControlMaskedTextBox\TabControlMaskedTextBox\obj\Debug\TabControlMaskedTextBox.pdb
